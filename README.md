@@ -36,4 +36,4 @@ runtimeOnly "org.lwjgl:lwjgl-glfw::natives-linux"
 </code>
 
 There is a class called <code>KeylibApplication</code>. Instead of your main game class extending off <code>AppicationAdapter</code>, you should extend it off <code>KeylibApplication</code>.
-Read the JavaDoc [here](https://jthecoder12.github.io/keylib) for more information.
+Read the JavaDoc [here](https://jthecoder12.github.io/Keylib) for more information.
